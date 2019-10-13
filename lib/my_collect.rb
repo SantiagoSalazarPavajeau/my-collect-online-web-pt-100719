@@ -13,4 +13,5 @@ def my_collect(array)
     # i increases to go into the next element in the array
   end
   collection
+  # returns an array with the new elements that have been altered
 end
